@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="353ab251-5592-45c4-9e23-574f81308115" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/filelist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/header.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/image025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/item0001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/props002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Paper_files/themedata.thmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predicting house prices.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predicting house prices_files/colorschememapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$edicting house prices.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$nal Paper.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$timation Final Report.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Co-variance Matrix Estimation_files/image029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image001.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image002.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image002.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image004.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image003.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image006.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image004.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image008.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image005.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image010.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image006.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image012.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image007.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image014.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image016.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image009.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image018.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image010.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image020.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image011.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image022.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image012.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image024.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estimation Final Report_files/image013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/image026.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mammogram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/colorschememapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Final Paper_files/colorschememapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/filelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/filelist.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/header.htm" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/header.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image001.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image002.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image002.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image006.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image007.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image008.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image009.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image010.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image011.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image011.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image012.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image012.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image013.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image013.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image014.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image014.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image015.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image015.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image016.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image016.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image017.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image017.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image018.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image018.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image019.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image019.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image020.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image020.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image021.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image021.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image022.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image023.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image023.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image024.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image025.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image025.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image026.png" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image026.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image027.gif" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image027.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image028.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image029.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image029.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image030.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image030.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/image031.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/image031.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive analytics report_files/themedata.thmx" beforeDir="false" afterPath="$PROJECT_DIR$/predicting house prices_files/themedata.thmx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="59" column="66" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predicting house prices.htm">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img19.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img32.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/thmb1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/thmb12.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/matrix_estimation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Estimation Final Report.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/browsersupport.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stel</find>
+      <find>pic</find>
+      <find>gene</find>
+      <find>target</find>
+      <find>learn More</find>
+      <find>widt</find>
+      <find>img</find>
+      <find>target002</find>
+      <find>Created</find>
+      <find>Crete</find>
+      <find>href</find>
+      <find>wh</find>
+      <find>wh.jpg</find>
+      <find>fir</find>
+      <find>second section</find>
+      <find>we</find>
+      <find>final Report</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Kalkidan\Desktop\Data_Science_Portfolio\Co-variance Estimation\5_2_Principal-Final(1) (Published)\data</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/covariance presentation.html" />
+        <option value="$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/matrix_estimation.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="107" />
+    <option name="width" value="1200" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Co-variance Estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Co-variance Estimation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Co-variance Estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Co-variance Estimation" type="462c0819:PsiDirectoryNode" />
+              <item name="5_2_Principal-Final(1) (Published)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Co-variance Estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Co-variance Estimation" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kalkidan\Desktop\Data_Science_Portfolio\Co-variance Estimation\images" />
+      <recent name="C:\Users\Kalkidan\Desktop\Data_Science_Portfolio\Co-variance Estimation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353ab251-5592-45c4-9e23-574f81308115" name="Default Changelist" comment="" />
+      <created>1562407436283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562407436283</updated>
+    </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1562594218302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562594218302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30735108" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~$-Variance Matrix Estimation for Fixed income.htm" />
+    <entry file="file://$PROJECT_DIR$/images/target002.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6001">
+          <caret line="353" column="73" selection-start-line="353" selection-start-column="63" selection-end-line="353" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GMU_DEAN_Presentation.html" />
+    <entry file="file://$PROJECT_DIR$/covariance presentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/html5-unsupported.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/html5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CS_504_Homework5 (1).ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/img32.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/thmb1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/thmb12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/data/browsersupport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_2_Principal-Final(1) (Published)/matrix_estimation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimation Final Report.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predicting house prices.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Wh.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="59" column="66" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
